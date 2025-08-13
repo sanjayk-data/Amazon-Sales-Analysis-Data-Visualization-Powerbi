@@ -63,4 +63,32 @@ Quarterly Impact
 
 # Dashboard
 
+https://github.com/sanjayk-data/amazon-sales-analysis-data-visualization-powerbi/blob/main/Amazon%20Sales%20Analysis.png
 
+
+# Final Recommendations 
+
+1. Category Focus & Diversification
+
+• Continue driving sales in Men’s Shoes and Cameras through stock availability and promotions.
+
+• Boost mid-tier categories (Men Clothes, Car Accessories) with cross-selling and seasonal offers.
+
+• Reposition or promote low-performers (Toys, Mobile Accessories) with targeted campaigns.
+
+2. Seasonal Sales Optimization
+
+• Increase inventory and marketing before peak months.
+
+• Run flash sales in slower months to balance cash flow.
+
+• Leverage Customer Reviews
+
+3.  Highlight high-review products (e.g., SanDisk) in marketing materials.
+
+• Encourage reviews for best sellers with low feedback.
+
+# Author & Contact
+Sanjay Kumar
+📧 Email: sanjaykumardata2@gmail.com
+🔗 LinkedIn : www.linkedin.com/in/sanjaykumardataofficial
