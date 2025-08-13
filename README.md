@@ -36,6 +36,7 @@ The dashboard reveals top-selling products, most-reviewed products, and sales di
 
  # Key Findings
 Revenue Concentration
+
 •Men’s Shoes (43.18%) and Cameras (22.62%) generate most sales.
 
 •Remaining categories contribute less than 35% combined.
