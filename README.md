@@ -35,13 +35,13 @@ The dashboard reveals top-selling products, most-reviewed products, and sales di
 
 
  # Key Findings
-1. Revenue Concentration
+## 1. Revenue Concentration
 
 •Men’s Shoes (43.18%) and Cameras (22.62%) generate most sales.
 
 •Remaining categories contribute less than 35% combined.
 
-2. Seasonal Trends
+## 2. Seasonal Trends
 
 •Peaks in March, September, November, and December.
 
@@ -53,11 +53,11 @@ Sales vs. Reviews Gap
 
 •SanDisk products dominate reviews but not sales.
 
-3. Customer Engagement
+## 3. Customer Engagement
 
 •Over 19M reviews YTD, but engagement isn’t always translating to revenue.
 
-4. Quarterly Impact
+## 4. Quarterly Impact
 
 •QTD sales of $811K (~37% of YTD total) indicate strong end-of-year performance.
 
@@ -69,7 +69,7 @@ https://github.com/sanjayk-data/amazon-sales-analysis-data-visualization-powerbi
 
 # Final Recommendations 
 
-1. Category Focus & Diversification
+## 1. Category Focus & Diversification
 
 • Continue driving sales in Men’s Shoes and Cameras through stock availability and promotions.
 
@@ -77,7 +77,7 @@ https://github.com/sanjayk-data/amazon-sales-analysis-data-visualization-powerbi
 
 • Reposition or promote low-performers (Toys, Mobile Accessories) with targeted campaigns.
 
-2. Seasonal Sales Optimization
+## 2. Seasonal Sales Optimization
 
 • Increase inventory and marketing before peak months.
 
@@ -85,7 +85,7 @@ https://github.com/sanjayk-data/amazon-sales-analysis-data-visualization-powerbi
 
 • Leverage Customer Reviews
 
-3.  Highlight high-review products (e.g., SanDisk) in marketing materials.
+## 3.  Highlight high-review products (e.g., SanDisk) in marketing materials.
 
 • Encourage reviews for best sellers with low feedback.
 
