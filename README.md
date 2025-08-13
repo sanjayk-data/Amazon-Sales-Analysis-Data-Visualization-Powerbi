@@ -41,7 +41,7 @@ Revenue Concentration
 
 •Remaining categories contribute less than 35% combined.
 
-Seasonal Trends
+2.Seasonal Trends
 
 •Peaks in March, September, November, and December.
 
@@ -53,11 +53,11 @@ Sales vs. Reviews Gap
 
 •SanDisk products dominate reviews but not sales.
 
-Customer Engagement
+3.Customer Engagement
 
 •Over 19M reviews YTD, but engagement isn’t always translating to revenue.
 
-Quarterly Impact
+4.Quarterly Impact
 
 •QTD sales of $811K (~37% of YTD total) indicate strong end-of-year performance.
 
