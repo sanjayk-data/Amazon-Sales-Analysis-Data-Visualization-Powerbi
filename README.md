@@ -1,4 +1,4 @@
-# sales-analysis-amazon-data-visualization-powerbi
+# Amazon-Sales-Analysis-Data-Visualization-Powerbi
 
 # Overview
 The dashboard reveals top-selling products, most-reviewed products, and sales distribution by category, helping identify growth opportunities and performance gaps.It also highlights key metrics such as YTD and quarterly-to-date (QTD) sales, total products sold, and customer reviews.
